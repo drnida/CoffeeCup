@@ -1,6 +1,0 @@
-consumer_key = "your secrets go here in a string"
-consumer_secret = ""your secrets go here in a string"
-access_token = "your secrets go here in a string"
-access_token_secret = "your secrets go here in a string"
-
-
